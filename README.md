@@ -1,5 +1,5 @@
 ### Hi there 👋
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=rg-aa)
+https://pixel-profile.vercel.app/api/github-stats?username=rg-aa
 <!--
 **rg-aa/rg-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
